@@ -7,19 +7,50 @@ To develop a Railway Reservation System that enables users to book, cancel, and 
 
 # SRS (Procedure):
 
-Create the following diagrams in StarUML:
+# 1. Class Diagram
+Identify classes with attributes and methods.
 
-1.Activity Diagram
+Define relationships (association, generalization, aggregation).
 
-2.Class Diagram
+Use class boxes and connectors.
 
-3.Communication Diagram
+# 2. Use Case Diagram
+Identify actors and use cases.
 
-4.Package Diagram
+Draw actors outside, use cases inside the system boundary.
 
-5.Sequence Diagram
+Connect actors to use cases; use <<include>>, <<extend>> if needed.
 
-6.Use Case Diagram
+# 3. Activity Diagram
+Identify activities, decisions, start and end nodes.
+
+Use flow arrows, decision diamonds, and activity boxes.
+
+Represent process flow clearly.
+
+# 4. Package Diagram
+Group related classes into packages.
+
+Draw packages using folder-like symbols.
+
+Show dependencies between packages with dashed arrows.
+
+# 5. Sequence Diagram
+Identify objects and message sequence.
+
+Draw lifelines vertically.
+
+Use horizontal arrows for messages (in order from top to bottom).
+
+Show activation bars if needed.
+
+# 6. Communication Diagram
+Identify objects and interactions.
+
+Represent objects as boxes connected by lines.
+
+Label messages with sequence numbers and direction arrows.
+
 
 # DIAGRAMS:
 
